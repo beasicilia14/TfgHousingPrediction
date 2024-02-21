@@ -14,7 +14,7 @@ params = {
     "maxItems": "50",
     "sinceDate": "Y",
     "order": "distance",
-    "numPage": "11",
+    "numPage": "15",
     "sort": "desc"
 
 }
