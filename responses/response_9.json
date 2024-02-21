@@ -1,0 +1,24 @@
+{
+    "elementList": [],
+    "total": 261,
+    "totalPages": 6,
+    "actualPage": 9,
+    "itemsPerPage": 50,
+    "numPaginations": 0,
+    "summary": [
+        "Comprar",
+        "Viviendas",
+        "Madrid capital",
+        "Todos los precios",
+        "Últimas 48h.",
+        "Todos los tamaños"
+    ],
+    "filter": {
+        "locationName": "Madrid"
+    },
+    "alertName": "Viviendas en Madrid",
+    "totalAppliedFilters": 1,
+    "lowerRangePosition": 400,
+    "upperRangePosition": 400,
+    "paginable": true
+}
