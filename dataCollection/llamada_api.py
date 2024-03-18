@@ -21,7 +21,7 @@ params = {
 
 # Credenciales de acceso a la API en los headers
 headers = {
-    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzY29wZSI6WyJyZWFkIl0sImV4cCI6MTcwOTMyNTYwOSwiYXV0aG9yaXRpZXMiOlsiUk9MRV9QVUJMSUMiXSwianRpIjoiZjM4Y2Q2NDUtYjkxMi00NmVkLTgwNWItODQ2NDE5YTU0ZWM0IiwiY2xpZW50X2lkIjoidmprY211eWY4NDNleHJvZ240MXA4cDlndGhjb2wwcjIifQ.4qwHz7mfgOfliKX5_Py1FpHLMROBuO6WA32_udT87Rc",
+    "Authorization": "Bearer <token>",
 }
 
 # Realiza la llamada a la API
