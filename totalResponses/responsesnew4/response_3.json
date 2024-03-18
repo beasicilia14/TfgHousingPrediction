@@ -1,0 +1,113 @@
+{
+    "elementList": [
+        {
+            "propertyCode": "104124548",
+            "thumbnail": "https://img3.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/f4/03/a7/1210561084.jpg",
+            "externalReference": "cm-425949",
+            "numPhotos": 28,
+            "floor": "6",
+            "price": 440000.0,
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 87.0,
+            "exterior": true,
+            "rooms": 1,
+            "bathrooms": 1,
+            "address": "barrio Sol",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Centro",
+            "country": "es",
+            "neighborhood": "Sol",
+            "latitude": 40.4172929,
+            "longitude": -3.701647,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/104124548/",
+            "distance": "156",
+            "description": "Única inmobiliaria pone a su disposición magnífico ático para reformar en una de las calles más céntricas de Madrid.  Se trata de un ático con 87 metros cuadrados de propiedad situada en una sexta planta muy luminosa. Se distribuye en un dormitorio con una cama doble, un amplio salón con vistas a la Puerta del Sol y cocina. La finca es de fachada clásica, con ascensor, portero y calefacción individual de gas natural y con la ITE favorable.  Ubicación privilegiada, a escasos metros de la Puerta del Sol y de la Plaza Mayor en una zona completamente consolidada con todo tipo de servicios, tiendas, comercios, bares, restaurantes con amplia oferta gastronómica y sitios de ocio. Bien comunicado con varias líneas de metro y de autobuses. En Única Inmobiliaria, empresa de servicios personalizados con experiencia de más de 19 años y conocimiento profundo del sector en las zonas más exclusivas de Madrid, contamos con un dinámico equipo de profesionales con formación superior y experiencia en el asesoramiento personal. Nuestra larga trayectoria profesional nos permite ofrecer una excelente gestión y encontrar soluciones a las necesidades de cada cliente con el objetivo de conseguir su satisfacción y confianza. En Única Inmobiliaria cada cliente es “Único”. DISPONEMOS DE MÁS INMUEBLES EN ESTA ZONA QUE NO SE PUBLICAN EN IDEALISTA POR EXPRESO DESEO DE LOS PROPIETARIOS. PARA VERLOS PINCHE EN EL LOGO DE UNICA O ENTRE EN NUESTRA WEB unicainmobiliaria. com.",
+            "hasVideo": false,
+            "status": "renew",
+            "newDevelopment": false,
+            "hasLift": true,
+            "priceByArea": 5057.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Sol, Madrid",
+                "title": "Piso"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "104154838",
+            "thumbnail": "https://img3.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/dd/ed/fe/1211461568.jpg",
+            "externalReference": "93732 GH",
+            "numPhotos": 1,
+            "floor": "2",
+            "price": 250000.0,
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 40.0,
+            "exterior": false,
+            "rooms": 1,
+            "bathrooms": 1,
+            "address": "barrio Sol",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Centro",
+            "country": "es",
+            "neighborhood": "Sol",
+            "latitude": 40.4175208,
+            "longitude": -3.7019441,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/104154838/",
+            "distance": "147",
+            "description": "GILMAR CENTRO presenta a sus clientes maravillosa oportunidad de vivienda ubicada en el corazón de Sol, en el distrito Centro de Madrid.  La vivienda se encuentra en una ubicación céntrica, en el corazón de Sol, con cercanía a una amplia gama de servicios y comodidades en el centro de Madrid. La vivienda está situada en la segunda planta y se destaca por su luminosidad, lo que puede ser atractivo para aquellos que buscan un espacio lleno de luz natural. El piso tiene 40 metros cuadrados y ofrece un dormitorio principal y un baño completo, lo que puede ser adecuado para una persona sola, una pareja o como inversión para alquiler. Construido en el año 1900, este piso puede tener elementos arquitectónicos y características históricas que le confieren un encanto especial y un carácter único. A pesar de estar en el interior del edificio, se destaca la luminosidad excepcional gracias a su orientación este, lo que garantiza una iluminación natural agradable. Se menciona que la vivienda dispone de aire acondicionado para garantizar el máximo confort durante todo el año, lo que puede ser especialmente valorado en épocas de calor. En resumen, esta vivienda ofrece una ubicación céntrica, luminosidad excepcional, comodidad y características históricas, lo que la convierte en una oportunidad interesante tanto para vivir como para obtener una excelente rentabilidad. Trabajamos para ofrecer a nuestros clientes los mejores inmuebles desde hace 40 años. Cubrimos todas las necesidades inmobiliarias: viviendas, oficinas, locales comerciales, solares, fincas rústicas, terrenos para construir. Disponemos de más de 30 equipos especializados en distintas zonas al servicio de más de 90.000 clientes nacionales e internacionales, que cuentan con asesoramiento necesario para garantizar su seguridad, eficacia jurídica y la mejor rentabilidad financiero-fiscal. Oficina Centro (Chueca - Justicia, Malasaña - Universidad, Palacio, Sol, Huertas - Cortes - Paseo Florida).",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": false,
+            "priceByArea": 6250.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Sol, Madrid",
+                "title": "Piso"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        }
+    ],
+    "total": 102,
+    "totalPages": 3,
+    "actualPage": 3,
+    "itemsPerPage": 50,
+    "numPaginations": 0,
+    "summary": [
+        "Comprar",
+        "Viviendas",
+        "distrito Centro, Madrid",
+        "Todos los precios",
+        "Últimas 48h.",
+        "Todos los tamaños"
+    ],
+    "filter": {
+        "locationName": "Centro"
+    },
+    "alertName": "Viviendas en Centro",
+    "totalAppliedFilters": 1,
+    "paginable": true,
+    "lowerRangePosition": 100,
+    "upperRangePosition": 102
+}

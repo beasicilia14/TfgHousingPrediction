@@ -1,0 +1,24 @@
+{
+    "elementList": [],
+    "total": 80,
+    "totalPages": 2,
+    "actualPage": 3,
+    "itemsPerPage": 50,
+    "numPaginations": 0,
+    "summary": [
+        "Comprar",
+        "Viviendas",
+        "distrito Centro, Madrid",
+        "Todos los precios",
+        "Últimas 48h.",
+        "Todos los tamaños"
+    ],
+    "filter": {
+        "locationName": "Centro"
+    },
+    "alertName": "Viviendas en Centro",
+    "totalAppliedFilters": 1,
+    "lowerRangePosition": 100,
+    "upperRangePosition": 100,
+    "paginable": true
+}

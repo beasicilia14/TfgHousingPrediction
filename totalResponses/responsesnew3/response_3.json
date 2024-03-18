@@ -1,0 +1,24 @@
+{
+    "elementList": [],
+    "total": 84,
+    "totalPages": 2,
+    "actualPage": 3,
+    "itemsPerPage": 50,
+    "numPaginations": 0,
+    "summary": [
+        "Comprar",
+        "Viviendas",
+        "distrito Barrio de Salamanca, Madrid",
+        "Todos los precios",
+        "Últimas 48h.",
+        "Todos los tamaños"
+    ],
+    "filter": {
+        "locationName": "Barrio de Salamanca"
+    },
+    "alertName": "Viviendas en Barrio de Salamanca",
+    "totalAppliedFilters": 1,
+    "lowerRangePosition": 100,
+    "upperRangePosition": 100,
+    "paginable": true
+}
