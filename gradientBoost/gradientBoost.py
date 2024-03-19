@@ -71,7 +71,7 @@ X_train, X_test, y_train, y_test = train_test_split(encoded_data.drop("price", a
 
 # Define the hyperparameters grid
 param_grid = {
-    'n_estimators': [100, 200, 300],
+    'n_estimators': [100, 200, 300, 350, 400, 500, 600],
     'max_depth': [3, 5, 7],
     'learning_rate': [0.1, 0.01, 0.001]
 }
@@ -112,3 +112,27 @@ plt.ylabel('Predicted Values')
 plt.title('Real vs Predicted Values')
 # Save the plot
 plt.savefig('gradientBoost//real_vs_predicted.png')
+
+
+#Get the importance of each feature
+importances = xgb.feature_importances_
+
+# Create a dataframe with the feature importances
+feature_importances_df = pd.DataFrame({'feature': X_train.columns, 'importance': importances})
+
+# Sort the dataframe by the importance in descending order
+feature_importances_df = feature_importances_df.sort_values('importance', ascending=False)
+
+#get top 15 features
+feature_importances_df = feature_importances_df.head(15)
+
+print(feature_importances_df)
+
+#write into a file called infoxgboost.txt
+with open('gradientBoost//infoxgboost.txt', 'w') as file:
+    file.write(f"Best Parameters: {best_params}\n")
+    file.write(feature_importances_df.to_string(index=False))
+
+
+
+

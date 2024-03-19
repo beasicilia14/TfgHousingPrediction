@@ -1,0 +1,18 @@
+Best Parameters: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 600}
+
+                     feature  importance
+                        size    0.601631
+                 priceByArea    0.282377
+                   bathrooms    0.073350
+                     floor_7    0.020064
+                    latitude    0.003502
+neighborhood_Chueca-Justicia    0.003123
+      neighborhood_Recoletos    0.001198
+district_Barrio de Salamanca    0.001091
+               typology_flat    0.000932
+                       rooms    0.000721
+                 status_good    0.000679
+                     floor_5    0.000534
+     neighborhood_Castellana    0.000527
+                   longitude    0.000518
+           district_Chamber�    0.000502

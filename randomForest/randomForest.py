@@ -73,6 +73,7 @@ grid_search.fit(X_train, y_train)
 
 # Print the best parameters
 print("best parameters", grid_search.best_params_)
+#write into a file called inforandomforest.txt 
 
 rf = RandomForestRegressor(n_estimators=grid_search.best_params_['n_estimators'], max_depth=grid_search.best_params_['max_depth'])
 rf.fit(X_train, y_train)
@@ -117,6 +118,17 @@ feature_importances_df = feature_importances_df.sort_values('importance', ascend
 
 # Display the 10 most important features
 feature_importances_df.head(10)
+
+with open('randomForest//inforandomforest.txt', 'w') as f:
+    
+    print("Best Parameters /n", file=f )
+    print(grid_search.best_params_, file=f)
+
+    #write importance 
+    print("Feature importances /n", file=f)
+    print(feature_importances_df.head(15), file=f)
+
+    
 
 
 

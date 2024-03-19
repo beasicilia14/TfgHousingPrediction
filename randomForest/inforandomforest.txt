@@ -1,0 +1,19 @@
+Best Parameters /n
+{'max_depth': 50, 'n_estimators': 200}
+Feature importances /n
+                     feature  importance
+4                       size    0.695484
+3                priceByArea    0.260990
+1                  bathrooms    0.026020
+0                  longitude    0.003849
+5                   latitude    0.002643
+2                      rooms    0.001617
+120                  floor_2    0.001446
+83    neighborhood_Recoletos    0.000767
+33   neighborhood_Castellana    0.000585
+15              status_renew    0.000453
+13               status_good    0.000446
+122                  floor_4    0.000350
+124                  floor_6    0.000302
+116                  floor_1    0.000284
+126                  floor_8    0.000284
