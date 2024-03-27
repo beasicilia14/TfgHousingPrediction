@@ -48,8 +48,7 @@ for house in houses:
 
 data_numeric = data.select_dtypes(include=['float64', 'int64'])
 
-data.drop(columns=["description", "propertyCode", "distance"], inplace=True)
-
+data = data.drop(columns=["description", "propertyCode", "distance"], axis=1)
 data_categorical = data.select_dtypes(include=['object'])
 
 data_boolean = data.select_dtypes(include=['bool'])
