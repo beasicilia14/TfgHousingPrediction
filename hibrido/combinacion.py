@@ -149,7 +149,7 @@ y_pred_gb = xgb.predict(X_test)
 
 
 #wrtie in txt mae_val_gb, mae_val_rf, mae_val_reg   
-with open('combinacionModelos//info.txt', 'w') as f:
+with open('hibrido//info.txt', 'w') as f:
     print("mae_val_gb", mae_val_gb, file=f)
     print("mae_val_rf", mae_val_rf, file=f)
     print("mae_val_reg", mae_val_reg, file=f)
@@ -171,8 +171,8 @@ y_pred = (y_pred_reg * weight_reg + y_pred_rf * weight_rf + y_pred_gb * weight_g
 
 #Crear archivo csv con las predicciones, cada columna es un modelo.
 predictions = pd.DataFrame({'regression': y_pred_reg, 'random_forest': y_pred_rf, 'gradient_boost': y_pred_gb, 'final_ensemble': y_pred, 'real': y_test})
-predictions.to_csv('combinacionModelos//predictions.csv', index=False)
+predictions.to_csv('hibrido//predictions.csv', index=False)
 
 #Calcular métricas
 metrics = get_metrics(y_test, y_pred)
-metrics.to_csv('combinacionModelos//metrics.csv', index=False)
+metrics.to_csv('hibrido//metrics.csv', index=False)
