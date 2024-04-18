@@ -23,7 +23,7 @@ Aquí se encuentran dos funciones clave:
 
 - **EDA.ipynb**: Contiene código con visualizaciones para el análisis exploratorio de los datos.
 
-### Una Carpeta para Cada Modelo:
+### Carpeta para Cada Modelo:
 
 Cada modelo tiene la siguiente estructura:
 
