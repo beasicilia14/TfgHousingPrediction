@@ -1,11 +1,13 @@
 # TFG Housing Prediction
 
-AUTOR: Beatriz Sicilia Gómez 
-GRADO: 5ºGITT + BA
+**AUTOR:** Beatriz Sicilia Gómez
 
-Este proyecto se centra en el desarrollo de modelos de Machine Learning para predecir el precio de venta de viviendas en Madrid. Utilizando datos obtenidos a través de la API del portal inmobiliario Idealista, se ha almacenado la información en la nube mediante Firebase. Posteriormente, se llevó a cabo un exhaustivo análisis exploratorio y limpieza de los datos.
+**GRADO:** 5ºGITT + BA
 
-Los modelos se han construido haciendo uso de las bibliotecas SciKit-Learn, XGBoost y TensorFlow-Keras.
+-------------------------
+
+**Descripción del proyecto:**
+Este proyecto se centra en el desarrollo de modelos de Machine Learning para predecir el precio de venta de viviendas en Madrid. Utilizando datos obtenidos a través de la API del portal inmobiliario Idealista, se ha almacenado la información en la nube mediante Firebase. Posteriormente, se llevó a cabo un exhaustivo análisis exploratorio y limpieza de los datos. Los modelos se han construido haciendo uso de las bibliotecas SciKit-Learn, XGBoost y TensorFlow-Keras.
 
 ## Estructura del Proyecto
 
